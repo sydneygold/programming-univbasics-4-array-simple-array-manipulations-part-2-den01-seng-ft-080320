@@ -19,5 +19,5 @@ def using_delete(array, string)
 end
 
 def using_delete_at(array, interger)
-  array.delete(2, interger)
+  array.delete([index] interger)
 end
